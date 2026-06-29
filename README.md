@@ -2,7 +2,7 @@
 
 &nbsp;
 
-/div>
+</div>
 
 ---
 
@@ -48,18 +48,6 @@ Notes, cheatsheets, and practical techniques for pentesting and red teaming.
 
 **[security-resources](https://github.com/itatipaul/security-resources)**  
 Curated collection of online resources for learning cybersecurity.
-
----
-
-### 005 — Stats
-
-<div align="center">
-
-![itatipaul's GitHub stats](https://github-readme-stats.vercel.app/api?username=itatipaul&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itatipaul&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888)
-
-</div>
 
 ---
 
