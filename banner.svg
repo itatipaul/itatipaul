@@ -1,0 +1,10 @@
+<svg width="100%" viewBox="0 0 680 180" role="img" xmlns="http://www.w3.org/2000/svg">
+  <rect width="680" height="180" fill="#0d0d0d" rx="8"/>
+  <rect x="0" y="0" width="680" height="1" fill="#222"/>
+  <rect x="0" y="179" width="680" height="1" fill="#222"/>
+  <text x="44" y="72" font-family="monospace" font-size="36" font-weight="700" fill="#f0ede6" letter-spacing="-1">itatipaul</text>
+  <text x="46" y="100" font-family="monospace" font-size="13" fill="#555" letter-spacing="3">SENPAI</text>
+  <text x="46" y="138" font-family="monospace" font-size="13" fill="#888">cybersecurity &amp; ctf player</text>
+  <rect x="44" y="152" width="220" height="1" fill="#333"/>
+  <text x="635" y="165" font-family="monospace" font-size="11" fill="#333" text-anchor="end">github.com/itatipaul</text>
+</svg>
