@@ -43,12 +43,6 @@ approach  →  break it, document it, learn from it
 **[vpn-launcher](https://github.com/itatipaul/vpn-launcher)**  
 GUI tool for managing and launching OpenVPN and WireGuard profiles on Linux.
 
-**[penetration-testing-handbook](https://github.com/itatipaul/penetration-testing-handbook)**  
-Notes, cheatsheets, and practical techniques for pentesting and red teaming.
-
-**[security-resources](https://github.com/itatipaul/security-resources)**  
-Curated collection of online resources for learning cybersecurity.
-
 ---
 
 <div align="center">
