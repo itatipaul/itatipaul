@@ -16,20 +16,7 @@ approach  →  break it, document it, learn from it
 
 ---
 
-### 002 — Stack & Tools
-
-| Category | Tools |
-|---|---|
-| Languages | Python |
-| Networking | OpenVPN · WireGuard |
-| Recon | nmap · gobuster · ffuf |
-| Exploitation | Burp Suite · Metasploit |
-| CTF | pwntools · CyberChef · Ghidra |
-| OS | Linux |
-
----
-
-### 003 — CTF Write-ups
+### 002 — CTF Write-ups
 
 | Competition | Year | Repo |
 |---|---|---|
@@ -38,7 +25,7 @@ approach  →  break it, document it, learn from it
 
 ---
 
-### 004 — Projects
+### 003 — Projects
 
 **[vpn-launcher](https://github.com/itatipaul/vpn-launcher)**  
 GUI tool for managing and launching OpenVPN and WireGuard profiles on Linux.
