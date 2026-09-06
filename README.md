@@ -23,7 +23,7 @@ and write it all down so future-me stops asking past-me questions.
 
 <br/>
 
-## 👋 Overview
+## Overview
 
 I'm a security-focused engineer who learns by taking things apart — networks, binaries, CTF challenges, occasionally my own assumptions. My work spans **penetration testing, network traffic analysis, CTF research, Linux security tooling, and evidence-led documentation** — basically, hacking things on purpose and then explaining exactly how, so nobody has to trust me on vibes alone.
 
@@ -31,7 +31,7 @@ The method never really changes: find the problem, chase the evidence, build som
 
 <br/>
 
-## 🧠 Capability Matrix
+## Capability Matrix
 
 | Domain | Scope |
 |---|---|
@@ -43,7 +43,7 @@ The method never really changes: find the problem, chase the evidence, build som
 
 <br/>
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -115,7 +115,7 @@ The origin story — earlier challenge write-ups from back when I was figuring o
 
 <br/>
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 <table>
 <tr>
@@ -165,7 +165,7 @@ The origin story — earlier challenge write-ups from back when I was figuring o
 
 <br/>
 
-## 📜 Working Principles
+## Working Principles
 
 > Learn by building. Document what matters. Verify the evidence. Share the workflow.
 
@@ -176,13 +176,13 @@ The origin story — earlier challenge write-ups from back when I was figuring o
 
 <br/>
 
-## 🔭 Current Direction
+## Current Direction
 
 Still expanding the toolkit — hands-on labs, CTF research, network analysis, and developer-focused security utilities — with a soft spot for projects where investigation, automation, and clear write-ups all show up at the same party.
 
 <br/>
 
-## 🧭 Explore
+## Explore
 
 Start with the [live SK-CERT CyberGame showcase](https://itatipaul.github.io/) or go spelunking through the [full repository list](https://github.com/itatipaul?tab=repositories).
 
