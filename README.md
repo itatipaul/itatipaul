@@ -53,6 +53,8 @@ The working method is consistent across projects: define the problem, verify the
 
 A searchable, in-page archive of **82 documented cybersecurity challenges** spanning offensive security, cryptography, OSINT, forensics, and malware analysis. Presents challenge context, solution methodology, supporting artefacts, and results as structured case studies.
 
+CyberGame is SK-CERT's (Slovakia's National Cyber Security Centre) national cybersecurity competition and official ECSC qualifier. Since 2025, a parallel edition — CyberGame Kenya — has run on the same platform under Kenya's Ministry of Information, Communications & The Digital Economy, with the 2026 edition marked by attendance from the Slovak Ambassador to Kenya and Kenyan ICT security officials.
+
 **Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `GitHub Actions` · `GitHub Pages`
 
 [Live Showcase →](https://itatipaul.github.io/) &nbsp;|&nbsp; [Source Repository →](https://github.com/itatipaul/itatipaul.github.io)
