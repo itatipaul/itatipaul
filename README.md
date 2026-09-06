@@ -5,8 +5,8 @@
 ### Cybersecurity Engineering · Network Security Analysis · Security Tooling
 
 <p>
-Building practical security tools, conducting structured technical investigations,<br/>
-and producing reproducible, evidence-based documentation.
+I break things (with permission), read packets like tea leaves,<br/>
+and write it all down so future-me stops asking past-me questions.
 </p>
 
 <a href="https://github.com/itatipaul"><img src="https://img.shields.io/badge/GitHub-itatipaul-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
@@ -15,35 +15,35 @@ and producing reproducible, evidence-based documentation.
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/status-active-2ea44f?style=flat-square" alt="Status">
+<img src="https://img.shields.io/badge/status-caffeinated-2ea44f?style=flat-square" alt="Status">
 <img src="https://img.shields.io/badge/challenges%20documented-82-1f6feb?style=flat-square" alt="Challenges Documented">
-<img src="https://img.shields.io/badge/license-view%20repos-lightgrey?style=flat-square" alt="License">
+<img src="https://img.shields.io/badge/uptime%20excuses-100%25%20honest-lightgrey?style=flat-square" alt="Honesty">
 
 </div>
 
 <br/>
 
-## Overview
+## 👋 Overview
 
-A security-focused engineer who learns through hands-on building and structured investigation. Core work spans **penetration testing, network traffic analysis, CTF research, Linux security tooling, and evidence-led technical documentation**.
+I'm a security-focused engineer who learns by taking things apart — networks, binaries, CTF challenges, occasionally my own assumptions. My work spans **penetration testing, network traffic analysis, CTF research, Linux security tooling, and evidence-led documentation** — basically, hacking things on purpose and then explaining exactly how, so nobody has to trust me on vibes alone.
 
-The working method is consistent across projects: define the problem, verify the evidence, build a solution that holds up under scrutiny, and document the reasoning so the work is reproducible by others.
+The method never really changes: find the problem, chase the evidence, build something that survives contact with reality, and write it down clearly enough that someone else (including future me, at 2am, mid-panic) can follow along.
 
 <br/>
 
-## Capability Matrix
+## 🧠 Capability Matrix
 
 | Domain | Scope |
 |---|---|
 | **Offensive Security** | Web, service, and application attack surfaces — probing, exploitation, and validation workflows |
 | **Network Security** | PCAP investigation, Wireshark tooling, VPN configuration, and traffic troubleshooting |
 | **Security Research** | CTF challenges spanning cryptography, OSINT, digital forensics, and malware analysis |
-| **Security Tooling** | Linux utilities and analysis tools that streamline repetitive security workflows |
+| **Security Tooling** | Linux utilities and analysis tools that turn "ugh, not this again" into "oh, that's handled" |
 | **Technical Documentation** | Reproducible methodology, command-level detail, evidence trails, and sourced conclusions |
 
 <br/>
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -51,9 +51,9 @@ The working method is consistent across projects: define the problem, verify the
 
 ### 01 · SK-CERT CyberGame 2026 Showcase
 
-A searchable, in-page archive of **82 documented cybersecurity challenges** spanning offensive security, cryptography, OSINT, forensics, and malware analysis. Presents challenge context, solution methodology, supporting artefacts, and results as structured case studies.
+A searchable, in-page archive of **82 documented cybersecurity challenges** spanning offensive security, cryptography, OSINT, forensics, and malware analysis. Every write-up gets the full treatment: context, method, evidence, and receipts.
 
-CyberGame is SK-CERT's (Slovakia's National Cyber Security Centre) national cybersecurity competition and official ECSC qualifier. Since 2025, a parallel edition — CyberGame Kenya — has run on the same platform under Kenya's Ministry of Information, Communications & The Digital Economy, with the 2026 edition marked by attendance from the Slovak Ambassador to Kenya and Kenyan ICT security officials.
+CyberGame is SK-CERT's (Slovakia's National Cyber Security Centre) national cybersecurity competition and official ECSC qualifier — proof that Slovakia takes "capture the flag" more seriously than most countries take capturing actual flags. Since 2025, a parallel edition — CyberGame Kenya — has run on the same platform under Kenya's Ministry of Information, Communications & The Digital Economy, with the 2026 edition drawing the Slovak Ambassador to Kenya and Kenyan ICT security officials to the (virtual) launch. Two countries, one flag format, zero shortage of enthusiasm.
 
 **Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `GitHub Actions` · `GitHub Pages`
 
@@ -66,7 +66,7 @@ CyberGame is SK-CERT's (Slovakia's National Cyber Security Centre) national cybe
 
 ### 02 · Wireshark Filter Reference
 
-A categorized Wireshark Lua plugin providing **70+ filters**, quick-apply menus, guided troubleshooting paths, and plain-language explanations — built to accelerate packet-analysis workflows.
+A categorized Wireshark Lua plugin with **70+ filters**, quick-apply menus, and plain-English explanations — because nobody should have to memorize `tcp.flags.syn == 1 && tcp.flags.ack == 0` at 2am, including the person who wrote it.
 
 **Stack:** `Lua` · `Wireshark` · `PCAP Analysis` · `Network Security`
 
@@ -79,7 +79,7 @@ A categorized Wireshark Lua plugin providing **70+ filters**, quick-apply menus,
 
 ### 03 · VPN Launcher Pro
 
-A unified Linux application for managing and launching OpenVPN and WireGuard connections, simplifying profile switching for security labs, remote work, and everyday privacy use.
+A single Linux app for firing up OpenVPN and WireGuard connections without hunting through six terminal tabs to remember which config goes where. Built for labs, remote work, testing, and general "I would like my traffic to mind its own business" purposes.
 
 **Stack:** `Python` · `Tkinter` · `OpenVPN` · `WireGuard` · `Linux`
 
@@ -92,7 +92,7 @@ A unified Linux application for managing and launching OpenVPN and WireGuard con
 
 ### 04 · SK-CERT CyberGame Write-ups
 
-Technical write-ups documenting investigation methodology, commands, reasoning, evidence, and outcomes across multiple security challenge categories.
+The receipts: commands, reasoning, evidence, and results, laid out step by step across cryptography, OSINT, forensics, malware analysis, and offensive security challenges. No "and then it magically worked" — every dead end is on the record too.
 
 **Stack:** `Python` · `Offensive Security` · `Forensics` · `OSINT` · `Cryptography`
 
@@ -105,7 +105,7 @@ Technical write-ups documenting investigation methodology, commands, reasoning, 
 
 ### 05 · CyberGame 2025
 
-Earlier challenge write-ups focused on practical security problem-solving, research methodology, and technical skill development.
+The origin story — earlier challenge write-ups from back when I was figuring out which end of a PCAP file to hold.
 
 [View Repository →](https://github.com/itatipaul/cybergame2025)
 
@@ -115,7 +115,7 @@ Earlier challenge write-ups focused on practical security problem-solving, resea
 
 <br/>
 
-## Technology Stack
+## 🛠️ Technology Stack
 
 <table>
 <tr>
@@ -165,26 +165,26 @@ Earlier challenge write-ups focused on practical security problem-solving, resea
 
 <br/>
 
-## Working Principles
+## 📜 Working Principles
 
 > Learn by building. Document what matters. Verify the evidence. Share the workflow.
 
-- **Scope discipline** — missing evidence is marked as missing, not inferred
-- **Separation of fact and assumption** — documented results are distinguished from working hypotheses
-- **Traceability** — technical conclusions are supported by the workflow that produced them
-- **Responsible practice** — ethical use, responsible disclosure, and careful handling of sensitive information are treated as non-negotiable
+- **Scope discipline** — missing evidence stays missing, it doesn't get quietly upgraded to "probably fine"
+- **Fact vs. assumption** — documented results and working hypotheses live in clearly separate lanes
+- **Traceability** — every conclusion comes with the trail that produced it, not just the punchline
+- **Responsible practice** — ethical use, responsible disclosure, and careful handling of sensitive data, always — no exceptions for "but it was funny"
 
 <br/>
 
-## Current Direction
+## 🔭 Current Direction
 
-Ongoing work focuses on expanding the security toolkit through hands-on labs, CTF research, network analysis, and developer-focused security utilities — with particular interest in projects that combine investigation, automation, and clear technical communication.
+Still expanding the toolkit — hands-on labs, CTF research, network analysis, and developer-focused security utilities — with a soft spot for projects where investigation, automation, and clear write-ups all show up at the same party.
 
 <br/>
 
-## Explore
+## 🧭 Explore
 
-Start with the [live SK-CERT CyberGame showcase](https://itatipaul.github.io/) or browse the [full repository list](https://github.com/itatipaul?tab=repositories).
+Start with the [live SK-CERT CyberGame showcase](https://itatipaul.github.io/) or go spelunking through the [full repository list](https://github.com/itatipaul?tab=repositories).
 
 <br/>
 
@@ -192,7 +192,7 @@ Start with the [live SK-CERT CyberGame showcase](https://itatipaul.github.io/) o
 
 <img src="https://img.shields.io/badge/BUILDING-DOCUMENTING-LEARNING-0d1117?style=for-the-badge" alt="Status Banner">
 
-**Thanks for visiting.**
+**Thanks for visiting — try not to trip over any open ports on your way out.**
 
 [All Repositories →](https://github.com/itatipaul?tab=repositories)
 
