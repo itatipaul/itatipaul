@@ -1,65 +1,143 @@
-<div align="center">
+<div align="center"> <pre>
+┌──────────────────────────────────────────────────────────────┐
+│  SENPAI                                                     │
+│  CYBERSECURITY  /  NETWORK ANALYSIS  /  SECURITY TOOLING    │
+└──────────────────────────────────────────────────────────────┘
+</pre> <p><strong>Cybersecurity-focused developer building practical tools, investigating technical problems, and documenting reproducible workflows.</strong></p>
 
-# Hi, I’m Senpai
-
-### Cybersecurity • Network Analysis • Security Tooling • Technical Write-ups
-
-I build practical security tools, investigate real-world attack surfaces, and turn challenging problems into clear, reproducible technical documentation.
-
-[![GitHub](https://img.shields.io/badge/GitHub-itatipaul-181717?style=for-the-badge&logo=github)](https://github.com/itatipaul)[![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-0f766e?style=for-the-badge&logo=hackthebox&logoColor=white)](https://github.com/itatipaul?tab=repositories)[![Projects](https://img.shields.io/badge/Public%20Projects-11-2563eb?style=for-the-badge&logo=github)](https://github.com/itatipaul?tab=repositories)
+<a href="https://github.com/itatipaul"><img src="https://img.shields.io/badge/GitHub-itatipaul-172033?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a><a href="https://itatipaul.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live%20Showcase-176b87?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a><a href="https://github.com/itatipaul?tab=repositories"><img src="https://img.shields.io/badge/Focus-Cybersecurity-1f7a6e?style=flat-square&logo=hackthebox&logoColor=white" alt="Cybersecurity"></a>
 
 </div>
 
-## About me
+---
 
-I’m a security-focused developer who enjoys learning by building. My work sits at the intersection of **penetration testing, network traffic analysis, CTF problem solving, Linux tooling, and evidence-led documentation**.
+## `01` / Profile
 
-This profile is a collection of experiments, utilities, challenge write-ups, and references created to make security concepts easier to understand and apply. I value practical workflows, transparent reasoning, and documentation that another person can reproduce.
+I’m a security-focused developer who learns by building. My work combines **penetration testing, network traffic analysis, CTF problem solving, Linux tooling, and evidence-led technical documentation**.
 
-## Featured work
+I create practical utilities, investigate security challenges, and turn the results into clear workflows that other people can understand and reproduce. My approach is straightforward: understand the problem, verify the evidence, build a useful solution, and document the decisions behind it.
 
-| Project | What it is | Technologies / focus |
-| --- | --- | --- |
-| [SK-CERT CyberGame 2026 Showcase](https://itatipaul.github.io/) | A searchable, in-page archive of challenge analysis, solution workflows, screenshots, flags, and supporting evidence. | React, TypeScript, Vite, Tailwind CSS, GitHub Pages |
-| [Wireshark Filter Reference](https://github.com/itatipaul/wireshark-filter-reference) | A categorized Wireshark Lua plugin with 70+ filters, guided troubleshooting, and quick-apply menus. | Lua, Wireshark, PCAP analysis, network security |
-| [VPN Launcher](https://github.com/itatipaul/vpn-launcher) | A Linux GUI for managing and launching OpenVPN and WireGuard profiles. | Python, Tkinter, OpenVPN, WireGuard, Linux |
-| [SK-CERT CyberGame Write-ups](https://github.com/itatipaul/SK-CERT-CYBERGAME-2026) | Technical write-ups and notes from cybersecurity challenges across multiple domains. | Python, offensive security, forensics, OSINT, cryptography |
-| [CyberGame 2025](https://github.com/itatipaul/cybergame2025) | Earlier challenge write-ups documenting practical security problem solving. | Cybersecurity research and documentation |
+## `02` / Capability areas
 
-## Areas I work in
+| Capability | Focus |
+| --- | --- |
+| **Offensive security** | Web, service, and application attack surfaces, probing, exploitation, and validation workflows. |
+| **Network security** | PCAP investigation, packet analysis, Wireshark workflows, VPN tooling, and traffic troubleshooting. |
+| **Security research** | CTF challenges, cryptography, OSINT, forensics, malware analysis, and structured investigation. |
+| **Security tooling** | Linux utilities and analysis tools that make repetitive workflows clearer and easier to use. |
+| **Technical documentation** | Reproducible steps, commands, screenshots, evidence trails, source references, and concise explanations. |
 
-- **Offensive security:** web, service, and application attack surfaces.
+## `03` / Selected projects
 
-- **Network security:** packet analysis, PCAP investigation, Wireshark workflows, and VPN tooling.
+### `01` — [SK-CERT CyberGame 2026 Showcase](https://itatipaul.github.io/)
 
-- **CTF problem solving:** cryptography, OSINT, forensics, malware analysis, and exploitation.
+A searchable, in-page archive of **82 cybersecurity challenge records** across offensive security, cryptography, OSINT, forensics, and malware analysis. It presents challenge context, solution workflows, screenshots, supporting artefacts, and documented results in a readable case-study format.
 
-- **Security documentation:** reproducible steps, evidence trails, screenshots, commands, and concise explanations.
+`React` `TypeScript` `Vite` `Tailwind CSS` `GitHub Actions` `GitHub Pages`
 
-- **Linux tooling:** small utilities that make security workflows faster and easier to use.
+[View live showcase →](https://itatipaul.github.io/) · [View source →](https://github.com/itatipaul/itatipaul.github.io)
 
-## Current direction
+### `02` — [Wireshark Filter Reference](https://github.com/itatipaul/wireshark-filter-reference)
 
-I’m continuing to expand my security toolkit through hands-on labs, challenge research, network analysis, and small developer-focused utilities. My goal is to create work that is not only technically useful, but also understandable to the person reading it.
+A categorized Wireshark Lua plugin with **70+ filters**, quick-apply menus, guided troubleshooting, and plain-English explanations. It is designed to make packet-analysis workflows faster and easier to follow.
 
-## Principles behind my work
+`Lua` `Wireshark` `PCAP analysis` `Network security`
+
+[View project →](https://github.com/itatipaul/wireshark-filter-reference)
+
+### `03` — [VPN Launcher Pro](https://github.com/itatipaul/vpn-launcher)
+
+A simple Linux application for managing and starting OpenVPN and WireGuard connections in one place. It makes switching between different VPN profiles easier and less confusing, especially for security labs, remote work, testing, and everyday privacy.
+
+`Python` `Tkinter` `OpenVPN` `WireGuard` `Linux`
+
+[View project →](https://github.com/itatipaul/vpn-launcher)
+
+### `04` — [SK-CERT CyberGame Write-ups](https://github.com/itatipaul/SK-CERT-CYBERGAME-2026)
+
+Technical write-ups documenting investigation methods, commands, reasoning, evidence, and results across multiple cybersecurity challenge categories.
+
+`Python` `Offensive security` `Forensics` `OSINT` `Cryptography`
+
+[Read the write-ups →](https://github.com/itatipaul/SK-CERT-CYBERGAME-2026)
+
+### `05` — [CyberGame 2025](https://github.com/itatipaul/cybergame2025)
+
+Earlier challenge write-ups focused on practical security problem solving, research, and technical learning.
+
+[View project →](https://github.com/itatipaul/cybergame2025)
+
+## `04` / Technology
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Security**
+
+`Penetration testing``Network security``PCAP analysis``Wireshark``OSINT``Digital forensics``Cryptography``Malware analysis`
+
+</td>
+<td valign="top" width="33%">
+
+**Development**
+
+`Python``TypeScript``JavaScript``Lua``React``Vite``Tailwind CSS``Tkinter`
+
+</td>
+<td valign="top" width="33%">
+
+**Platforms**
+
+`Linux``Git``GitHub Actions``OpenVPN``WireGuard``GitHub Pages``Kali Linux`
+
+</td>
+</tr>
+</table>
+
+## `05` / Working principles
 
 > **Learn by building. Document what matters. Verify the evidence. Share the workflow.**
 
-I try to keep my projects honest about their scope: missing evidence is marked as missing, documented results are separated from assumptions, and technical conclusions are supported by the workflow that produced them.
+I aim to keep my work clear about its scope. Missing evidence is marked as missing, documented results are separated from assumptions, and technical conclusions are supported by the workflow that produced them. For security-related work, I prioritize ethical use, responsible disclosure, and careful handling of sensitive information.
 
-## Explore the repositories
+## `06` / Current direction
 
-The best place to browse everything is the [repository list](https://github.com/itatipaul?tab=repositories). For a guided look at my cybersecurity work, start with the [SK-CERT CyberGame showcase](https://itatipaul.github.io/), then explore the [Wireshark Filter Reference](https://github.com/itatipaul/wireshark-filter-reference) and [VPN Launcher](https://github.com/itatipaul/vpn-launcher).
+I’m continuing to expand my cybersecurity toolkit through hands-on labs, challenge research, network analysis, and developer-focused security utilities. I’m especially interested in work that combines investigation, automation, practical security outcomes, and clear technical communication.
 
-## Let’s connect
+## `07` / Explore
 
-If you are interested in cybersecurity, network analysis, CTFs, Linux tooling, or technical documentation, feel free to explore the projects and open an issue or discussion in the relevant repository.
+Start with the [live SK-CERT CyberGame showcase](https://itatipaul.github.io/) or browse the [complete repository list](https://github.com/itatipaul?tab=repositories).
 
-<div align="center">
+<div align="center"> <pre>
+STATUS: BUILDING  |  DOCUMENTING  |  LEARNING
+</pre>
 
-### Thanks for stopping by.
+<strong>Thanks for visiting.</strong>
 
-[View my repositories →](https://github.com/itatipaul?tab=repositories)
+[View all repositories →](https://github.com/itatipaul?tab=repositories)
 
-</div>
+</div> <!--
+Publishing notes:
+- Save this file as README.md in the public repository github.com/itatipaul/itatipaul.
+- GitHub does not support changing the entire page font; code blocks and inline code provide the monospace visual style.
+- Keep project counts and metrics updated as the repositories change.
+-->
+
+## References
+
+[1]: https://github.com/itatipaul "itatipaul GitHub profile"
+
+[2]: https://github.com/itatipaul?tab=repositories "itatipaul public repositories"
+
+[3]: https://github.com/itatipaul/itatipaul.github.io "SK-CERT CyberGame 2026 Showcase repository"
+
+[4]: https://itatipaul.github.io/ "Published SK-CERT CyberGame 2026 Showcase"
+
+[5]: https://github.com/itatipaul/wireshark-filter-reference "Wireshark Filter Reference repository"
+
+[6]: https://github.com/itatipaul/vpn-launcher "VPN Launcher Pro repository"
+
+[7]: https://github.com/itatipaul/SK-CERT-CYBERGAME-2026 "SK-CERT CyberGame 2026 write-ups repository"
+
+[8]: https://github.com/itatipaul/cybergame2025 "CyberGame 2025 repository"
