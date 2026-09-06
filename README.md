@@ -1,73 +1,119 @@
-<div align="center"> <pre>
-┌──────────────────────────────────────────────────────────────┐
-│  SENPAI                                                     │
-│  CYBERSECURITY  /  NETWORK ANALYSIS  /  SECURITY TOOLING    │
-└──────────────────────────────────────────────────────────────┘
-</pre> <p><strong>Cybersecurity-focused developer building practical tools, investigating technical problems, and documenting reproducible workflows.</strong></p>
+<div align="center">
 
-<a href="https://github.com/itatipaul"><img src="https://img.shields.io/badge/GitHub-itatipaul-172033?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a><a href="https://itatipaul.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live%20Showcase-176b87?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a><a href="https://github.com/itatipaul?tab=repositories"><img src="https://img.shields.io/badge/Focus-Cybersecurity-1f7a6e?style=flat-square&logo=hackthebox&logoColor=white" alt="Cybersecurity"></a>
+# SENPAI
+
+### Cybersecurity Engineering · Network Security Analysis · Security Tooling
+
+<p>
+Building practical security tools, conducting structured technical investigations,<br/>
+and producing reproducible, evidence-based documentation.
+</p>
+
+<a href="https://github.com/itatipaul"><img src="https://img.shields.io/badge/GitHub-itatipaul-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://itatipaul.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live%20Showcase-0d47a1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+<a href="https://github.com/itatipaul?tab=repositories"><img src="https://img.shields.io/badge/Focus-Cybersecurity-0f5132?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Cybersecurity"></a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/status-active-2ea44f?style=flat-square" alt="Status">
+<img src="https://img.shields.io/badge/challenges%20documented-82-1f6feb?style=flat-square" alt="Challenges Documented">
+<img src="https://img.shields.io/badge/license-view%20repos-lightgrey?style=flat-square" alt="License">
 
 </div>
 
----
+<br/>
 
-## `01` / Profile
+## Overview
 
-I’m a security-focused developer who learns by building. My work combines **penetration testing, network traffic analysis, CTF problem solving, Linux tooling, and evidence-led technical documentation**.
+A security-focused engineer who learns through hands-on building and structured investigation. Core work spans **penetration testing, network traffic analysis, CTF research, Linux security tooling, and evidence-led technical documentation**.
 
-I create practical utilities, investigate security challenges, and turn the results into clear workflows that other people can understand and reproduce. My approach is straightforward: understand the problem, verify the evidence, build a useful solution, and document the decisions behind it.
+The working method is consistent across projects: define the problem, verify the evidence, build a solution that holds up under scrutiny, and document the reasoning so the work is reproducible by others.
 
-## `02` / Capability areas
+<br/>
 
-| Capability | Focus |
-| --- | --- |
-| **Offensive security** | Web, service, and application attack surfaces, probing, exploitation, and validation workflows. |
-| **Network security** | PCAP investigation, packet analysis, Wireshark workflows, VPN tooling, and traffic troubleshooting. |
-| **Security research** | CTF challenges, cryptography, OSINT, forensics, malware analysis, and structured investigation. |
-| **Security tooling** | Linux utilities and analysis tools that make repetitive workflows clearer and easier to use. |
-| **Technical documentation** | Reproducible steps, commands, screenshots, evidence trails, source references, and concise explanations. |
+## Capability Matrix
 
-## `03` / Selected projects
+| Domain | Scope |
+|---|---|
+| **Offensive Security** | Web, service, and application attack surfaces — probing, exploitation, and validation workflows |
+| **Network Security** | PCAP investigation, Wireshark tooling, VPN configuration, and traffic troubleshooting |
+| **Security Research** | CTF challenges spanning cryptography, OSINT, digital forensics, and malware analysis |
+| **Security Tooling** | Linux utilities and analysis tools that streamline repetitive security workflows |
+| **Technical Documentation** | Reproducible methodology, command-level detail, evidence trails, and sourced conclusions |
 
-### `01` — [SK-CERT CyberGame 2026 Showcase](https://itatipaul.github.io/)
+<br/>
 
-A searchable, in-page archive of **82 cybersecurity challenge records** across offensive security, cryptography, OSINT, forensics, and malware analysis. It presents challenge context, solution workflows, screenshots, supporting artefacts, and documented results in a readable case-study format.
+## Featured Projects
 
-`React` `TypeScript` `Vite` `Tailwind CSS` `GitHub Actions` `GitHub Pages`
+<table>
+<tr>
+<td width="100%">
 
-[View live showcase →](https://itatipaul.github.io/) · [View source →](https://github.com/itatipaul/itatipaul.github.io)
+### 01 · SK-CERT CyberGame 2026 Showcase
 
-### `02` — [Wireshark Filter Reference](https://github.com/itatipaul/wireshark-filter-reference)
+A searchable, in-page archive of **82 documented cybersecurity challenges** spanning offensive security, cryptography, OSINT, forensics, and malware analysis. Presents challenge context, solution methodology, supporting artefacts, and results as structured case studies.
 
-A categorized Wireshark Lua plugin with **70+ filters**, quick-apply menus, guided troubleshooting, and plain-English explanations. It is designed to make packet-analysis workflows faster and easier to follow.
+**Stack:** `React` · `TypeScript` · `Vite` · `Tailwind CSS` · `GitHub Actions` · `GitHub Pages`
 
-`Lua` `Wireshark` `PCAP analysis` `Network security`
+[Live Showcase →](https://itatipaul.github.io/) &nbsp;|&nbsp; [Source Repository →](https://github.com/itatipaul/itatipaul.github.io)
 
-[View project →](https://github.com/itatipaul/wireshark-filter-reference)
+</td>
+</tr>
+<tr>
+<td width="100%">
 
-### `03` — [VPN Launcher Pro](https://github.com/itatipaul/vpn-launcher)
+### 02 · Wireshark Filter Reference
 
-A simple Linux application for managing and starting OpenVPN and WireGuard connections in one place. It makes switching between different VPN profiles easier and less confusing, especially for security labs, remote work, testing, and everyday privacy.
+A categorized Wireshark Lua plugin providing **70+ filters**, quick-apply menus, guided troubleshooting paths, and plain-language explanations — built to accelerate packet-analysis workflows.
 
-`Python` `Tkinter` `OpenVPN` `WireGuard` `Linux`
+**Stack:** `Lua` · `Wireshark` · `PCAP Analysis` · `Network Security`
 
-[View project →](https://github.com/itatipaul/vpn-launcher)
+[View Repository →](https://github.com/itatipaul/wireshark-filter-reference)
 
-### `04` — [SK-CERT CyberGame Write-ups](https://github.com/itatipaul/SK-CERT-CYBERGAME-2026)
+</td>
+</tr>
+<tr>
+<td width="100%">
 
-Technical write-ups documenting investigation methods, commands, reasoning, evidence, and results across multiple cybersecurity challenge categories.
+### 03 · VPN Launcher Pro
 
-`Python` `Offensive security` `Forensics` `OSINT` `Cryptography`
+A unified Linux application for managing and launching OpenVPN and WireGuard connections, simplifying profile switching for security labs, remote work, and everyday privacy use.
 
-[Read the write-ups →](https://github.com/itatipaul/SK-CERT-CYBERGAME-2026)
+**Stack:** `Python` · `Tkinter` · `OpenVPN` · `WireGuard` · `Linux`
 
-### `05` — [CyberGame 2025](https://github.com/itatipaul/cybergame2025)
+[View Repository →](https://github.com/itatipaul/vpn-launcher)
 
-Earlier challenge write-ups focused on practical security problem solving, research, and technical learning.
+</td>
+</tr>
+<tr>
+<td width="100%">
 
-[View project →](https://github.com/itatipaul/cybergame2025)
+### 04 · SK-CERT CyberGame Write-ups
 
-## `04` / Technology
+Technical write-ups documenting investigation methodology, commands, reasoning, evidence, and outcomes across multiple security challenge categories.
+
+**Stack:** `Python` · `Offensive Security` · `Forensics` · `OSINT` · `Cryptography`
+
+[Read the Write-ups →](https://github.com/itatipaul/SK-CERT-CYBERGAME-2026)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 05 · CyberGame 2025
+
+Earlier challenge write-ups focused on practical security problem-solving, research methodology, and technical skill development.
+
+[View Repository →](https://github.com/itatipaul/cybergame2025)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Technology Stack
 
 <table>
 <tr>
@@ -75,69 +121,95 @@ Earlier challenge write-ups focused on practical security problem solving, resea
 
 **Security**
 
-`Penetration testing``Network security``PCAP analysis``Wireshark``OSINT``Digital forensics``Cryptography``Malware analysis`
+![Penetration Testing](https://img.shields.io/badge/-Penetration%20Testing-1f6feb?style=flat-square)
+![Network Security](https://img.shields.io/badge/-Network%20Security-1f6feb?style=flat-square)
+![PCAP Analysis](https://img.shields.io/badge/-PCAP%20Analysis-1f6feb?style=flat-square)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1f6feb?style=flat-square)
+![OSINT](https://img.shields.io/badge/-OSINT-1f6feb?style=flat-square)
+![Digital Forensics](https://img.shields.io/badge/-Digital%20Forensics-1f6feb?style=flat-square)
+![Cryptography](https://img.shields.io/badge/-Cryptography-1f6feb?style=flat-square)
+![Malware Analysis](https://img.shields.io/badge/-Malware%20Analysis-1f6feb?style=flat-square)
 
 </td>
 <td valign="top" width="33%">
 
 **Development**
 
-`Python``TypeScript``JavaScript``Lua``React``Vite``Tailwind CSS``Tkinter`
+![Python](https://img.shields.io/badge/-Python-2ea44f?style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-2ea44f?style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-2ea44f?style=flat-square)
+![Lua](https://img.shields.io/badge/-Lua-2ea44f?style=flat-square)
+![React](https://img.shields.io/badge/-React-2ea44f?style=flat-square)
+![Vite](https://img.shields.io/badge/-Vite-2ea44f?style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-2ea44f?style=flat-square)
+![Tkinter](https://img.shields.io/badge/-Tkinter-2ea44f?style=flat-square)
 
 </td>
 <td valign="top" width="33%">
 
 **Platforms**
 
-`Linux``Git``GitHub Actions``OpenVPN``WireGuard``GitHub Pages``Kali Linux`
+![Linux](https://img.shields.io/badge/-Linux-6f42c1?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-6f42c1?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-6f42c1?style=flat-square)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-6f42c1?style=flat-square)
+![WireGuard](https://img.shields.io/badge/-WireGuard-6f42c1?style=flat-square)
+![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-6f42c1?style=flat-square)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-6f42c1?style=flat-square)
 
 </td>
 </tr>
 </table>
 
-## `05` / Working principles
+<br/>
 
-> **Learn by building. Document what matters. Verify the evidence. Share the workflow.**
+## Working Principles
 
-I aim to keep my work clear about its scope. Missing evidence is marked as missing, documented results are separated from assumptions, and technical conclusions are supported by the workflow that produced them. For security-related work, I prioritize ethical use, responsible disclosure, and careful handling of sensitive information.
+> Learn by building. Document what matters. Verify the evidence. Share the workflow.
 
-## `06` / Current direction
+- **Scope discipline** — missing evidence is marked as missing, not inferred
+- **Separation of fact and assumption** — documented results are distinguished from working hypotheses
+- **Traceability** — technical conclusions are supported by the workflow that produced them
+- **Responsible practice** — ethical use, responsible disclosure, and careful handling of sensitive information are treated as non-negotiable
 
-I’m continuing to expand my cybersecurity toolkit through hands-on labs, challenge research, network analysis, and developer-focused security utilities. I’m especially interested in work that combines investigation, automation, practical security outcomes, and clear technical communication.
+<br/>
 
-## `07` / Explore
+## Current Direction
 
-Start with the [live SK-CERT CyberGame showcase](https://itatipaul.github.io/) or browse the [complete repository list](https://github.com/itatipaul?tab=repositories).
+Ongoing work focuses on expanding the security toolkit through hands-on labs, CTF research, network analysis, and developer-focused security utilities — with particular interest in projects that combine investigation, automation, and clear technical communication.
 
-<div align="center"> <pre>
-STATUS: BUILDING  |  DOCUMENTING  |  LEARNING
-</pre>
+<br/>
 
-<strong>Thanks for visiting.</strong>
+## Explore
 
-[View all repositories →](https://github.com/itatipaul?tab=repositories)
+Start with the [live SK-CERT CyberGame showcase](https://itatipaul.github.io/) or browse the [full repository list](https://github.com/itatipaul?tab=repositories).
 
-</div> <!--
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/BUILDING-DOCUMENTING-LEARNING-0d1117?style=for-the-badge" alt="Status Banner">
+
+**Thanks for visiting.**
+
+[All Repositories →](https://github.com/itatipaul?tab=repositories)
+
+</div>
+
+<!--
 Publishing notes:
 - Save this file as README.md in the public repository github.com/itatipaul/itatipaul.
-- GitHub does not support changing the entire page font; code blocks and inline code provide the monospace visual style.
-- Keep project counts and metrics updated as the repositories change.
+- GitHub does not support custom page-wide fonts; badges and code blocks provide the visual system instead.
+- Keep project counts and metrics current as repositories change.
 -->
 
 ## References
 
 [1]: https://github.com/itatipaul "itatipaul GitHub profile"
-
 [2]: https://github.com/itatipaul?tab=repositories "itatipaul public repositories"
-
 [3]: https://github.com/itatipaul/itatipaul.github.io "SK-CERT CyberGame 2026 Showcase repository"
-
 [4]: https://itatipaul.github.io/ "Published SK-CERT CyberGame 2026 Showcase"
-
 [5]: https://github.com/itatipaul/wireshark-filter-reference "Wireshark Filter Reference repository"
-
 [6]: https://github.com/itatipaul/vpn-launcher "VPN Launcher Pro repository"
-
 [7]: https://github.com/itatipaul/SK-CERT-CYBERGAME-2026 "SK-CERT CyberGame 2026 write-ups repository"
-
 [8]: https://github.com/itatipaul/cybergame2025 "CyberGame 2025 repository"
