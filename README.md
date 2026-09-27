@@ -24,7 +24,7 @@ and write it all down so future-me stops asking past-me questions.
 
 ## Who am I?
 
-I'm a security-focused engineer who learns by taking things apart — networks, binaries, CTF challenges, and occasionally my own assumptions.
+I'm a security-focused engineer who learns by taking things apart - networks, binaries, CTF challenges, and occasionally my own assumptions.
 
 My usual playground includes:
 
@@ -48,7 +48,7 @@ The method is simple:
 
 | Area | What that usually means |
 | --- | --- |
-| **Offensive security** | Probing web, service, and application attack surfaces — ethically, deliberately, and with permission. |
+| **Offensive security** | Probing web, service, and application attack surfaces - ethically, deliberately, and with permission. |
 | **Network security** | Investigating PCAPs, building Wireshark tools, configuring VPNs, and asking traffic where it has been. |
 | **Security research** | Solving challenges across cryptography, OSINT, digital forensics, malware analysis, and the occasional regrettable rabbit hole. |
 | **Security tooling** | Turning “ugh, not this again” into “oh, that's handled.” |
@@ -60,7 +60,7 @@ The method is simple:
 
 A searchable archive of **82 documented cybersecurity challenges** across offensive security, cryptography, OSINT, forensics, and malware analysis.
 
-Every write-up includes the context, method, evidence, and receipts. No “and then it magically worked” — the dead ends stay in too.
+Every write-up includes the context, method, evidence, and receipts. No “and then it magically worked” - the dead ends stay in too.
 
 CyberGame is Slovakia's national cybersecurity competition and official ECSC qualifier. Since 2025, a parallel edition has also run in Kenya.
 
@@ -80,7 +80,7 @@ Because nobody should have to memorize:
 tcp.flags.syn == 1 && tcp.flags.ack == 0
 ```
 
-at 2 a.m. — including the person who wrote it.
+at 2 a.m. - including the person who wrote it.
 
 `Lua` · `Wireshark` · `PCAP Analysis` · `Network Security`
 
@@ -110,7 +110,7 @@ Topics include cryptography, OSINT, forensics, malware analysis, and offensive s
 
 ### 05 · [CyberGame 2025](https://github.com/itatipaul/cybergame2025)
 
-The origin story — earlier challenge write-ups from back when I was figuring out which end of a PCAP file to hold.
+The origin story - earlier challenge write-ups from back when I was figuring out which end of a PCAP file to hold.
 
 [Visit the archaeological site →](https://github.com/itatipaul/cybergame2025)
 
@@ -146,7 +146,7 @@ The origin story — earlier challenge write-ups from back when I was figuring o
 
 - **Traceability:** Every conclusion comes with the trail that produced it, not just the punchline.
 
-- **Responsible practice:** Ethical use, responsible disclosure, and careful handling of sensitive data — always.
+- **Responsible practice:** Ethical use, responsible disclosure, and careful handling of sensitive data - always.
 
 - **Reproducibility:** If the solution depends on a mysterious command whispered by an ancient forum post, I want to know that too.
 
@@ -154,7 +154,7 @@ The origin story — earlier challenge write-ups from back when I was figuring o
 
 Still expanding the toolkit with hands-on labs, CTF research, network analysis, and developer-focused security utilities.
 
-The sweet spot is any project where **investigation, automation, and clear write-ups** show up at the same party — preferably with logs enabled.
+The sweet spot is any project where **investigation, automation, and clear write-ups** show up at the same party - preferably with logs enabled.
 
 ## Explore
 
@@ -162,7 +162,7 @@ Start with the [live SK-CERT CyberGame showcase](https://itatipaul.github.io/), 
 
 <div align="center"> <img src="https://img.shields.io/badge/BUILDING-DOCUMENTING-LEARNING-0d1117?style=for-the-badge" alt="Building, documenting, learning">
 
-**Thanks for visiting — try not to trip over any open ports on your way out.**
+**Thanks for visiting - try not to trip over any open ports on your way out.**
 
 [All repositories →](https://github.com/itatipaul?tab=repositories)
 
